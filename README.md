@@ -1,21 +1,15 @@
 
 # Pathfinding Visualizer
 
-> [!summary] Goal
 > An application that can visualize pathfinding algorithms on graphs.
 
-**Status:** `planning`  
+**Status:** `v1.0`  
 **Started:**  `11/13/2026`
 **Last Updated:** `11/22/2026`
 
 ## Objective
 
 - To write a program in python which can visualize BFS and DFS on tree graphs using the python language.
-
-## Background
-
-- [[Breadth First Search]]
-- [[Depth First Search Traversal]]
 
 ## Approach
 
@@ -35,9 +29,9 @@
 
 ## Results
 
-![[Pasted image 20261122213818.png|333]]
+<img width="752" height="791" alt="Screenshot 2026-11-22 213744" src="https://github.com/user-attachments/assets/298d0aee-e91b-4e67-bfb5-956342ff4b8c" />
+<img width="747" height="786" alt="Screenshot 2026-11-22 213753" src="https://github.com/user-attachments/assets/9d0ce179-61ee-42cc-aa80-067e611efad0" />
 
-![[Screenshot 2026-11-22 213744.png|336]]
 
 ## What I Learned
 
@@ -48,10 +42,5 @@
 
 - Make the edges in the graph random such that each time the graph is unique.
 - Giving the user the ability to select the source node.
-## Sources
-
-- [[W3schools]]
-- [[Geeks for Geeks]]
-- [[Wikipedia]]
 
 
