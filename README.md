@@ -1,7 +1,7 @@
 
-# Pathfinding Visualizer
+# Path-finding Visualizer
 
-> An application that can visualize pathfinding algorithms on graphs.
+> An application that can visualize path-finding algorithms on graphs.
 
 **Status:** `v1.0`  
 **Started:**  `11/13/2026`
@@ -13,7 +13,7 @@
 
 ## Approach
 
-- A tree graph is defined with nodes and edges intially.
+- A tree graph is defined with nodes and edges initially.
 - BFS and DFS algorithms return an array in the order the nodes each are visited.
 - Two buttons are defined for the relevant algorithms and if clicked on, they will change the value that decides the current algorithm.
 - Once an algorithm is chosen the nodes are highlighted in the relevant order.
@@ -23,7 +23,7 @@
 
 ## Problems & Decisions
 
-- To make sure the animation runs smooth the graphs are travelled beforehand and the nodes visited are returned in order.
+- To make sure the animation runs smooth the graphs are traveled beforehand and the nodes visited are returned in order.
 - To increase the quality of animation once a node is reached the edges ending with its coordinates are colorized.
 - To show a button has been pressed the color of the rectangle is changed and to a boolean value is used to prevent the program from running without it. 
 
@@ -40,7 +40,7 @@
 
 ## Next Steps
 
-- Make the edges in the graph random such that each time the graph is unique.
+- Randomize the edges in the graph so that each generated graph is unique.
 - Giving the user the ability to select the source node.
 
 
