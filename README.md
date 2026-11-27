@@ -70,4 +70,7 @@ python pfv.py
 - Randomize the edges in the graph so that each generated graph is unique.
 - Giving the user the ability to select the source node.
 
+## License
 
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
