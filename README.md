@@ -7,6 +7,33 @@
 **Started:**  `11/13/2026`
 **Last Updated:** `11/22/2026`
 
+## Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/pulindugunawardana/Pathfinding-Visualizer.git
+```
+
+### 2. Navigate to the project directory
+
+```bash
+cd Pathfinding-Visualizer
+```
+
+### 3. Install the dependencies
+
+```bash
+pip install pygame
+```
+
+### 4. Run the program
+
+```bash
+python pfv.py
+```
+
+
 ## Objective
 
 - To write a program in python which can visualize BFS and DFS on tree graphs using the python language.
