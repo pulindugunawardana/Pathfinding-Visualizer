@@ -60,11 +60,6 @@ python pfv.py
 <img width="747" height="786" alt="Screenshot 2026-11-22 213753" src="https://github.com/user-attachments/assets/9d0ce179-61ee-42cc-aa80-067e611efad0" />
 
 
-## What I Learned
-
-- Using pygame for visualization and user input.
-- Advanced use of loops and conditional statement.
-
 ## Next Steps
 
 - Randomize the edges in the graph so that each generated graph is unique.
